@@ -1,0 +1,20 @@
+﻿Column1,Column2,Column3,Column4
+Room Schedule,,,
+Area,Name,Number,Perimeter
+,,,
+9 m²,KITCHEN,100,40'
+16 m²,BEDROOM 1,101,52'
+4 m²,washroom,102,26'
+4 m²,washroom,103,27'
+12 m²,BEDROOM 2,104,46'
+8 m²,stairs,105,42'
+4 m²,OTS,106,29'
+14 m²,dining,107,50'
+23 m²,LIVING ROOM,108,64'
+27 m²,PARKING,109,98'
+16 m²,BEDROOM 4,110,52'
+9 m²,BEDROOM 3,111,40'
+17 m²,BEDROOM 5,112,55'
+4 m²,WASHROOM,113,27'
+4 m²,WASHROOM,114,26'
+28 m²,LIVING ROOM,115,72'
